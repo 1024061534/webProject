@@ -11,7 +11,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <packaging>war</packaging>
-
+    <name>webProject</name>
+    <description>web应用</description>
     <dependencies>
     <!-- Servlet -->
     <dependency>
